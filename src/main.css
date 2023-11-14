@@ -1,0 +1,22 @@
+.slide-view {
+  transform: translateX(-10%);
+  display: flex;
+  justify-content: space-between;
+  transition: all 1s ease;
+  margin-bottom: 6px;
+}
+.slide-view2 {
+  transform: translateX(-10%);
+  display: flex;
+  justify-content: space-between;
+  transition: all 1s ease;
+  margin-bottom: 6px;
+}
+
+.slide-view3 {
+  transform: translateX(-10%);
+  display: flex;
+  justify-content: space-evenly;
+  transition: all 1s ease;
+  margin-bottom: 6px;
+}
